@@ -1,0 +1,8 @@
+assert 'OrangeHRM' == 'OrangeHR'
+  
+  [0m[91m- OrangeHR[39;49;00m[90m[39;49;00m
+  [92m+ OrangeHRM[39;49;00m[90m[39;49;00m
+  ?         +[90m[39;49;00m
+Assertion error Occurred
+in finally block
+Test Completed
